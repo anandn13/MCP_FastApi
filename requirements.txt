@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+sqlalchemy
+alembic
+passlib[bcrypt]
+python-jose
+pytest
+httpx
+loguru
